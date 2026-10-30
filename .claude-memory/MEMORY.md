@@ -1,0 +1,2 @@
+- [User role](user-role.md) — Security professional at Aptean building red team automation
+- [Red Team Portal](project-redteam-portal.md) — Active project: automated red teaming portal with FastAPI + React, tiered approval workflow
