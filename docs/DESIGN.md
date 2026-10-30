@@ -1,4 +1,4 @@
-# Red Team Orchestration Portal -- Technical Design Document
+# Kutayuddha — Technical Design Document
 
 **Version**: 1.0  
 **Date**: 2026-10-21  
@@ -26,7 +26,7 @@
 
 ### 1.1 Purpose
 
-The Red Team Orchestration Portal is a web-based platform that partially or fully automates red teaming operations while keeping a human operator in the decision loop for high-risk actions. It provides a unified interface for planning, executing, and tracking multi-stage attack simulations against enterprise infrastructure.
+Kutayuddha (Sanskrit: "covert warfare") is a web-based platform that partially or fully automates red teaming operations while keeping a human operator in the decision loop for high-risk actions. It provides a unified interface for planning, executing, and tracking multi-stage attack simulations against enterprise infrastructure.
 
 ### 1.2 Target Users
 

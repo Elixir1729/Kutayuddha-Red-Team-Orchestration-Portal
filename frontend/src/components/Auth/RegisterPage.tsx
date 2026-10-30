@@ -58,8 +58,8 @@ const RegisterPage: React.FC = () => {
           <div className="w-14 h-14 bg-indigo-600 rounded-xl flex items-center justify-center mb-4">
             <Target className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-2xl font-bold text-white">Red Team Portal</h1>
-          <p className="text-slate-400 text-sm mt-1">Create your account</p>
+          <h1 className="text-2xl font-bold text-white">Kutayuddha</h1>
+          <p className="text-slate-400 text-sm mt-1">Covert Warfare Operations Platform</p>
         </div>
 
         <div className="bg-slate-900 border border-slate-700 rounded-xl p-8">

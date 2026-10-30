@@ -30,7 +30,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
 
   const { isConnected } = useWebSocket(handleWsEvent);
 
-  const title = routeTitles[location.pathname] || 'Red Team Portal';
+  const title = routeTitles[location.pathname] || 'Kutayuddha';
 
   const handleKillSwitch = () => {
     console.log('Kill switch activated');

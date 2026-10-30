@@ -6,7 +6,7 @@ from pydantic_settings import BaseSettings
 class Settings(BaseSettings):
     """Central configuration loaded from environment variables."""
 
-    APP_NAME: str = "Red Team Orchestration Portal"
+    APP_NAME: str = "Kutayuddha"
     APP_VERSION: str = "1.0.0"
     DEBUG: bool = False
 

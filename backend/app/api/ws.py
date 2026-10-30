@@ -90,7 +90,7 @@ async def websocket_endpoint(websocket: WebSocket) -> None:
         client_id,
         {
             "type": "connected",
-            "data": {"client_id": client_id, "message": "Connected to Red Team Orchestration Portal"},
+            "data": {"client_id": client_id, "message": "Connected to Kutayuddha"},
         },
     )
 

@@ -42,8 +42,8 @@ app = FastAPI(
     title=settings.APP_NAME,
     version=settings.APP_VERSION,
     description=(
-        "Red Team Orchestration Portal — automates red teaming operations "
-        "with human-in-the-loop approval, tiered gating, and safety guardrails."
+        "Kutayuddha — Covert Warfare Operations Platform. Automates red teaming "
+        "operations with human-in-the-loop approval, tiered gating, and safety guardrails."
     ),
     lifespan=lifespan,
 )

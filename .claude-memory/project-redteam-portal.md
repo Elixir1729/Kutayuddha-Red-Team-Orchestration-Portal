@@ -1,6 +1,6 @@
 ---
 name: project-redteam-portal
-description: "Red Team Orchestration Portal - automated red teaming with human-in-the-loop approval, built with FastAPI + React + PostgreSQL + Redis"
+description: "Kutayuddha (Covert Warfare Operations Platform) - automated red teaming with human-in-the-loop approval, built with FastAPI + React + PostgreSQL + Redis"
 metadata:
   node_type: memory
   type: project
@@ -8,7 +8,7 @@ metadata:
   modified: 2026-10-29T11:49:21.566Z
 ---
 
-Red Team Orchestration Portal at ~/redteam-portal/ — automates red teaming operations with tiered human approval.
+Kutayuddha (Covert Warfare Operations Platform) at ~/redteam-portal/ — automates red teaming operations with tiered human approval.
 
 **Why:** User is building a portal to partially/fully automate red teaming for their organization (Aptean).
 
